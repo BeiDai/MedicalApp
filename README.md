@@ -4,8 +4,6 @@
 
 - [工作日志](/工作日志.md)
 
-- [测试MedicalApp](https://github.com/BeiDai/MedicalApp)
-
 - [安卓APP开发经验](https://github.com/BeiDai/Android_Experience)
 
 - [Medical_Box2.0](https://github.com/BeiDai/Medical_Box2.0)
