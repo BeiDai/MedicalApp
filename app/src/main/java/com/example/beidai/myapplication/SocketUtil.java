@@ -18,7 +18,6 @@ public class SocketUtil {
         this.str = str;
         this.ip = ip;
     }
-
     public String sendMessage(){
         String result = "123134";
         try{
